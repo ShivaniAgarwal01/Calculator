@@ -24,7 +24,7 @@ A simple, responsive calculator built using **React.js** and **Tailwind CSS**. I
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/your-username/Calculator.git
    cd calculator
 
    ```
